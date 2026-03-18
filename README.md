@@ -62,4 +62,8 @@ The new font can be implemented safely, since no evidence was found that it nega
 - `logs_exp_us.csv` — dataset used in the analysis
 
 ## Author
-Data Analytics portfolio project focused on product analytics, funnel analysis, and experiment evaluation.
+Tatiana Torres 
+Data Analyst 
+
+- LinkedIn: [https://www.linkedin.com/in/tatianamartinstorres/](https://www.linkedin.com/in/tatianamartinstorres/)
+- GitHub: [https://github.com/your-username  ](https://github.com/Tatiamt)
